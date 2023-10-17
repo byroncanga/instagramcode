@@ -8,7 +8,7 @@ body{
     font-family: 'Roboto', sans-serif;
     display: grid;
     place-content: center;   
-    background-color: rgb(243, 245, 246);
+    background-color: rgb(244, 246, 247);
 }
 .container{
     width: 500px;
